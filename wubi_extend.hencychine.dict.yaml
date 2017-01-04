@@ -1,0 +1,34 @@
+# Rime dictionary: wubi_extend.hencychine
+# encoding: utf-8
+
+# 本词典为基于五笔编码的个人常用简体字词汇
+# 应作为import码表补充到其他词典中使用
+# 编写人：HencyChine <cyc1601@msn.com>
+
+
+---
+name: wubi_extend.hencychine
+version: "2016.04.14"
+sort: by_weight
+use_preset_vocabulary: false
+columns:
+  - text
+  - code
+  - weight
+  - stem
+...
+
+
+# 词汇按照拼音排序
+
+电音	jnuj
+官网	pnmq
+叛徒	udtf
+萨克斯	adad
+神社	pypy
+圣代	cfwa
+吐槽	kfsg
+微博	tmfg
+卧槽	ahsg
+颜文字	uypb
+原画	drgl

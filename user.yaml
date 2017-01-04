@@ -1,0 +1,10 @@
+var:
+  option:
+    full_shape: false
+  previously_selected_schema: wubi_pinyin
+  schema_access_time:
+    luna_pinyin: 1460692285
+    pinyin_simp: 1461109745
+    wubi86: 1473234605
+    wubi_pinyin: 1473234792
+    wubi_trad: 1467686342

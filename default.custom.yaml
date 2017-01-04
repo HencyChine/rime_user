@@ -1,0 +1,16 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.9.30
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Thu Nov 26 05:59:57 2015"
+  rime_version: 1.1.2
+
+patch:
+  ascii_composer:
+    good_old_caps_lock: true
+    switch_key: {Caps_Lock: clear, Control_L: inline_ascii, Control_R: noop, Eisu_toggle: clear, Shift_L: commit_code, Shift_R: commit_text}
+  schema_list:
+    - {schema: wubi_trad}
+    - {schema: wubi_pinyin}
+    - {schema: pinyin_simp}
+    - {schema: wubi86}
